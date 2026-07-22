@@ -1,4 +1,4 @@
-# Hi, I'm Parul Yadav! 👋🚀
+# Hi, I'm Parul ! 👋🚀
 
 ---
 

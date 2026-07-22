@@ -84,7 +84,7 @@ Burp Suite • Nmap • SQLMap • Wireshark • Nessus • Gobuster • Dirsear
 
 ### Backend & DevOps
 
-FastAPI • PostgreSQL • Docker • Git • GitHub • Linux
+FastAPI • PostgreSQL • Docker • Git • GitHub • Linux • Langsith
 
 ---
 

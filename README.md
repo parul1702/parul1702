@@ -1,7 +1,5 @@
 # Hi, I'm Parul Yadav! 👋🚀
 
-📧 Email • 💼 LinkedIn • 💻 GitHub
-
 ---
 
 ## 🧠 About Me
